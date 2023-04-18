@@ -1,6 +1,7 @@
 import React from 'react'
 import { Image, View } from 'react-native';
 import styles from '../StyledButton/style';
+//import Image from '/assets/images/logo.png';
 
 function Header() {
   return (

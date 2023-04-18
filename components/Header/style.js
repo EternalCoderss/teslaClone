@@ -1,8 +1,10 @@
 import { StyleSheet } from 'react-native';
+//import logo from 'assets/images/logo.png';
+//import { Logo } from "/assets/images/logo.png";
 
 const styles = StyleSheet.create({
   container: {
-    position: 'absolute',
+    position: 'center',
     top: 50,
     zIndex: 100,
     flexDirection: 'row',

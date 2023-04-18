@@ -1,5 +1,5 @@
 import { StyleSheet } from "react-native";
-
+//import { logo } from "/assets/images/logo.png";
 const styles =  StyleSheet.create({
     container: {
         width: '100%',
